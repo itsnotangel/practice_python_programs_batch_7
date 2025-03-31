@@ -11,4 +11,4 @@ if statement.endswith(suffix):
     statement = statement[:len(statement) - len(suffix)]
 
 # Print the result
-print(statement)
+print("Statement without suffix:", statement)
