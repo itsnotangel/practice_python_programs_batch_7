@@ -14,4 +14,4 @@ while index >= 0 and statement[index] == ' ':
 trimmed_statement = statement[:index + 1]
 
 # Print the result
-print("'" + trimmed_statement + "'")    
+print("Trimmed statement: '" + trimmed_statement + "'")    
